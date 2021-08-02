@@ -1,4 +1,4 @@
-import java.until.Scanner;
+
 import java.util.Scanner;
 
 public class CeaserCipher {
@@ -14,6 +14,8 @@ public class CeaserCipher {
         String message = scan.next();
         int length = message.length();
         System.out.println( " Enter the Key;...");
+        int key = scan.nextInt();
+        System.out.println( " The Encrypted Message is...");
 
 
 
