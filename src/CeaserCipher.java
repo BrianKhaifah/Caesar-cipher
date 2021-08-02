@@ -18,6 +18,18 @@ public class CeaserCipher {
         System.out.println( " The Encrypted Message is...");
 
 
+        for ( int i =0; i< length; i++){
+            for ( int j = 0; j<26; j++){
+                if ( message.charAt(i) == lowerCase.charAt(j)){
+                    System.out.println ( lowerCase.charAt( ( j + key) %26) );
+
+                }
+                else  if ( message.charAt(i) == lowerCase.charAt(j)){
+                    System.out.println( cipher.charAt( (j + key) %26 ) );
+                }
+            }
+        }
+        System.out.println();
 
     }
 
