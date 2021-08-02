@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2d14eae6-16b1-4547-aa6f-22769d50a534" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CeaserCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CeaserCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ceaser-Cipher-Project/CeaserCipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ceaser-Cipher-Project/CeaserCipher.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CeaserCipherTest">
+  <component name="RunManager" selected="Application.CeaserCipher">
     <configuration name="CeaserCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CeaserCipher" />
       <module name="Ceaser-Cipher-Project" />
@@ -58,10 +58,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CeaserCipherTest.tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ceaser-Cipher-Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CeaserCipherTest" />
+      <option name="METHOD_NAME" value="tests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CeaserCipherTest" />
         <item itemvalue="Application.CeaserCipher" />
+        <item itemvalue="JUnit.CeaserCipherTest.tests" />
+        <item itemvalue="JUnit.CeaserCipherTest" />
       </list>
     </recent_temporary>
   </component>
